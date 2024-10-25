@@ -1,0 +1,3 @@
+GitHub token
+name: crypto_token
+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

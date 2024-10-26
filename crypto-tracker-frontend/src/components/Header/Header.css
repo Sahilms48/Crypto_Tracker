@@ -1,0 +1,9 @@
+.header-link {
+    color: white;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+.header-link:hover {
+    text-decoration: underline;
+}
